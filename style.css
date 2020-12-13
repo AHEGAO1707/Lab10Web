@@ -1,0 +1,27 @@
+﻿* {
+box-sizing: border-box;
+}
+body {
+color: black;
+font-family: Arial, Helvetica, Verdana, sans-serif;
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right: 0px;
+margin-left: 0px;
+}
+.red {
+color: orange;
+}
+textarea {
+width: 300px;
+height: 100px;
+}
+div {
+background-color: white;
+}
+.blueBack {
+background-color: pink;
+}
+.fixWidth {
+width: 300px;
+}
